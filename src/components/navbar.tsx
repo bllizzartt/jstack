@@ -47,7 +47,7 @@ export const Navbar = async () => {
                     variant: "ghost",
                   })}
                 >
-                  Pricing
+                  Pricing - change this
                 </Link>
                 <Link
                   href="/sign-in"
